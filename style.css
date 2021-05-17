@@ -1,0 +1,19 @@
+.heading {
+  text-align: center;
+  position: relative;
+  top: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 40px;
+}
+.btn-danger {
+  position: absolute;
+  top: 550px;
+  left: 620px;
+  width: 130px;
+}
+#name {
+  text-align: center;
+  position: relative;
+  top: 420px;
+  font-size: 35px;
+}
